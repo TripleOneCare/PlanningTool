@@ -1,0 +1,6 @@
+# Local settings with database password - never commit
+config.php
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+*.zip
